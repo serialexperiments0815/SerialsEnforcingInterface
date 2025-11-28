@@ -48,5 +48,7 @@ CSS3
 - **File Handling:** JSON intermediary for staging profile data before database commit  
 
 ---
-Profile pictures are AI-generated using thispersondoesnotexist.com
+Profile pictures are AI-generated using thispersondoesnotexist.com.
 This project is **educational** and not intended for production use.
+
+
