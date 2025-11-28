@@ -41,7 +41,6 @@ The project allows creating, viewing, updating, and deleting **person profiles**
 
 ## Tech Stack
 
-- **Frontend:** HTML5, <img width="1041" height="529" alt="Screenshot 2025-11-28 152205" src="https://github.com/user-attachments/assets/8d60882a-d29e-4e0d-8a60-1e1441a660d6" />
 CSS3  
 - **Backend:** PHP 7+  
 - **Database:** MySQL (tested with MariaDB)  
