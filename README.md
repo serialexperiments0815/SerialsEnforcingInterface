@@ -5,6 +5,11 @@ The project allows creating, viewing, updating, and deleting **person profiles**
 
 ---
 
+<img width="722" height="560" alt="Screenshot 2025-11-28 152613" src="https://github.com/user-attachments/assets/e97d7aa9-df3b-4dc3-8e15-60138ff914a5" />
+<img width="1194" height="822" alt="Screenshot 2025-11-28 152632" src="https://github.com/user-attachments/assets/832ad64b-43f1-4a5f-bbfe-e1969f809798" />
+
+---
+
 ## Features
 
 - **Profile Management**
@@ -36,7 +41,8 @@ The project allows creating, viewing, updating, and deleting **person profiles**
 
 ## Tech Stack
 
-- **Frontend:** HTML5, CSS3  
+- **Frontend:** HTML5, <img width="1041" height="529" alt="Screenshot 2025-11-28 152205" src="https://github.com/user-attachments/assets/8d60882a-d29e-4e0d-8a60-1e1441a660d6" />
+CSS3  
 - **Backend:** PHP 7+  
 - **Database:** MySQL (tested with MariaDB)  
 - **File Handling:** JSON intermediary for staging profile data before database commit  
